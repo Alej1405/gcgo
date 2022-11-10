@@ -1,8 +1,6 @@
 <?php
 require 'INCLUDES/funciones.php';
 incluirTemplate('header');
-
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
